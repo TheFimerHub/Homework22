@@ -1,5 +1,5 @@
 # Code smells - Homework 22
-### Работа взята у Вадима Владимрова, вот его GitHub:
+### Работа взята у Вадима Владимирова, вот его GitHub:
 [Vadim Vladimirov - GitHub](https://github.com/cestxvcdim)
 
 ### Code smell в функции main:
